@@ -41,28 +41,29 @@ Token 工厂
 自我教育
 ```
 
-```
+
 
 ---
 
-## 🧩 My Philosophy
+## 🌱 What I'm Exploring
 
-我相信，一个人也可以通过 AI、工具和长期主义，逐渐建立自己的生产系统。
-
-不是封闭自我，而是持续开放。
-不是只做想法收藏家，而是把想法变成作品。
-不是追求一次性成功，而是不断试错、复盘、迭代。
+- AI 智能体
+- 氛围编程 / Vibe Coding
+- 一人公司 / OPC
+- Token 工厂
+- 个人知识系统
+- 投资工具
+- 自我教育
 
 ---
 
-```md
 ## 📫 Links
 
 - Website: [www.wenyaoyefei.com](https://www.wenyaoyefei.com)
 - GitHub: [FisherWenray](https://github.com/FisherWenray)
 - X: [@wenyaoyefei](https://x.com/wenyaoyefei)
 - YouTube: [@wenyaoyefei](https://www.youtube.com/@wenyaoyefei)
-```
+
 
 
 ---
