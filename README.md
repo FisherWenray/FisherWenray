@@ -30,7 +30,7 @@ I’m building small but useful tools around AI, personal data, investing, and s
 
 ## 🌱 What I'm Exploring
 
-```text
+
 ```text
 AI 智能体
 氛围编程 / Vibe Coding
