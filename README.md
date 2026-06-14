@@ -24,7 +24,6 @@ I’m building small but useful tools around AI, personal data, investing, and s
 | [DoubanWrapped](https://github.com/FisherWenray/DoubanWrapped)           | 私人豆瓣数据总结生成器。一键备份个人豆瓣「书、影、音」标记记录，并生成离线可视化看板。 |
 | [bookmark](https://github.com/FisherWenray/bookmark)                     | 一个收录 5000+ 标签和链接的导航页，整理各类优质网站资源。            |
 | [stock-market-cloud](https://github.com/FisherWenray/stock-market-cloud) | 美股 & 港股大盘云图，用可视化方式观察市场。                     |
-| [new-api](https://github.com/FisherWenray/new-api)                       | 统一 AI 模型网关，支持多种大模型接口聚合与分发。                  |
 | [AIlearn](https://github.com/FisherWenray/AIlearn)                       | AI 学习与实验记录。                                 |
 
 ---
