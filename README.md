@@ -31,13 +31,16 @@ I’m building small but useful tools around AI, personal data, investing, and s
 ## 🌱 What I'm Exploring
 
 ```text
-AI Agent
-Vibe Coding
-OPC / One Person Company
-Token Factory
-Personal Knowledge System
-Investment Tools
-Self Education
+```text
+AI 智能体
+氛围编程 / Vibe Coding
+一人公司 / OPC
+Token 工厂
+个人知识系统
+投资工具
+自我教育
+```
+
 ```
 
 ---
