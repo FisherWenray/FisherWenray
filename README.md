@@ -7,7 +7,7 @@ I’m building small but useful tools around AI, personal data, investing, and s
 
 ---
 
-## 🧭 About Me
+## 🧭 关于我
 
 * 🧠 关注 AI Agent、Vibe Coding、Token 工厂和个人生产力工具
 * 🚀 探索 OPC：一个人公司、独立开发、轻资产创业
@@ -17,7 +17,7 @@ I’m building small but useful tools around AI, personal data, investing, and s
 
 ---
 
-## 🛠️ Projects
+## 🛠️ 我的独立开发的项目
 
 | Project                                                                  | Description                                 |
 | ------------------------------------------------------------------------ | ------------------------------------------- |
@@ -28,24 +28,7 @@ I’m building small but useful tools around AI, personal data, investing, and s
 
 ---
 
-## 🌱 What I'm Exploring
-
-
-```text
-AI 智能体
-氛围编程 / Vibe Coding
-一人公司 / OPC
-Token 工厂
-个人知识系统
-投资工具
-自我教育
-```
-
-
-
----
-
-## 🌱 What I'm Exploring
+## 🌱 我关注的领域
 
 - AI 智能体
 - 氛围编程 / Vibe Coding
@@ -57,7 +40,7 @@ Token 工厂
 
 ---
 
-## 📫 Links
+## 📫 社交媒体
 
 - Website: [www.wenyaoyefei.com](https://www.wenyaoyefei.com)
 - GitHub: [FisherWenray](https://github.com/FisherWenray)
